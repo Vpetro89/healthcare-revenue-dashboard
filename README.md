@@ -1,2 +1,1 @@
-# healthcare-revenue-dashboard
-Healthcare Revenue Cycle Dashboard built with Excel data and Tableau. Visualizes total allowed, billed, and paid revenue along with monthly billing trends and department-level payment performance.
+This project demonstrates a Tableau dashboard analyzing healthcare revenue cycle performance. The dashboard summarizes total allowed, billed, and paid revenue, visualizes monthly billing trends, and compares paid revenue across clinical departments. The dataset originates from Excel and was modeled and visualized in Tableau to simulate operational revenue reporting used in healthcare environments.
